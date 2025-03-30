@@ -1,0 +1,9 @@
+A = 10; 
+B = 2; 
+if (A / B == 5)
+   C = A * B;
+   if (C > 10)
+      C = C - 5;
+   endif;
+write C;
+$$

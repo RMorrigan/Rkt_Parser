@@ -1,0 +1,6 @@
+read A; 
+B = A + 3;
+if (B < 10)
+   C = B * 2;
+write C; 
+$$

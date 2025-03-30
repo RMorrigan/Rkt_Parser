@@ -1,0 +1,7 @@
+A = 5;
+B = A + 2;
+if (B == 7)
+   D = A * B;
+endif;
+write D; 
+$$

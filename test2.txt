@@ -1,0 +1,8 @@
+X = 4;
+Y = 8;
+Z = X % 3;
+if (Y - X > Z)
+   Y = Y / 2;
+endif;
+write Y + Z;
+$$
